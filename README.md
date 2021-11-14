@@ -1,9 +1,10 @@
 # Employee Tracker
 
 ## Description
-this is a command-line application that accepts user input to manage a company's employee database. AS a business owner you will be able to view and manage the departments, roles, and employees in your company. Therefor, you can organize and plan your business.
+This is a command-line application that accepts user input to manage a company's employee database. As a business owner you will be able to view and manage the departments, roles, and employees in your company. Therefore, you can organize and plan your business.
 
 ## Video demo
+https://watch.screencastify.com/v/E5YeUhEtAltgzc3RLGfj
 
 ## Technologies Used
 - Node.js 
